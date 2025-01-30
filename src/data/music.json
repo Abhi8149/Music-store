@@ -1,0 +1,292 @@
+[
+  {
+    "title": "Guitar Fundamentals",
+    "slug": "guitar-fundamentals",
+    "description": "Learn the basics of playing guitar with our comprehensive beginner's course. This course covers everything from tuning your guitar to playing your first song. You'll also learn about different types of guitars and how to choose the right one for you.",
+    "price": 99.99,
+    "instructor": {
+      "name": "John Doe",
+      "title": "Guitar Instructor",
+      "avatarUrl": "/images/instructors/john-doe.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/guitar.jpg",
+    "duration": "10 weeks",
+    "level": "Beginner",
+    "category": "Music",
+    "studentsEnrolled": 120,
+    "learningPoints": [
+      "Basic chords and strumming patterns",
+      "Reading guitar tabs and sheet music",
+      "Playing simple songs",
+      "Proper hand positioning and technique",
+      "Tuning your guitar",
+      "Basic music theory",
+      "Finger exercises",
+      "Introduction to scales",
+      "Playing with a metronome",
+      "Basic improvisation"
+    ]
+  },
+  {
+    "title": "Piano Basics",
+    "slug": "piano-basics",
+    "description": "Start your piano journey with our beginner-friendly course. This course will teach you how to read sheet music, play basic chords, and perform simple songs. You'll also learn about the history of the piano and different playing techniques.",
+    "price": 89.99,
+    "instructor": {
+      "name": "Jane Smith",
+      "title": "Piano Instructor",
+      "avatarUrl": "/images/instructors/jane-smith.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/piano.jpg",
+    "duration": "12 weeks",
+    "level": "Beginner",
+    "category": "Music",
+    "studentsEnrolled": 150,
+    "learningPoints": [
+      "Basic piano techniques",
+      "Reading sheet music",
+      "Playing simple songs",
+      "Proper hand positioning",
+      "Scales and arpeggios",
+      "Basic music theory",
+      "Finger exercises",
+      "Introduction to chords",
+      "Playing with dynamics",
+      "Basic improvisation"
+    ]
+  },
+  {
+    "title": "Singing for Beginners",
+    "slug": "singing-for-beginners",
+    "description": "Learn the basics of singing with our beginner's course. This course covers vocal techniques, breathing exercises, and how to sing in tune. You'll also learn about different singing styles and how to take care of your voice.",
+    "price": 79.99,
+    "instructor": {
+      "name": "Michael Johnson",
+      "title": "Vocal Instructor",
+      "avatarUrl": "/images/instructors/michael-johnson.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/singing.jpg",
+    "duration": "8 weeks",
+    "level": "Beginner",
+    "category": "Music",
+    "studentsEnrolled": 200,
+    "learningPoints": [
+      "Vocal techniques",
+      "Breathing exercises",
+      "Singing in tune",
+      "Different singing styles",
+      "Voice care",
+      "Basic music theory",
+      "Ear training",
+      "Singing with dynamics",
+      "Performance tips",
+      "Building confidence"
+    ]
+  },
+  {
+    "title": "Drumming Basics",
+    "slug": "drumming-basics",
+    "description": "Start your drumming journey with our beginner-friendly course. This course covers basic drumming techniques, rhythm exercises, and how to play simple beats. You'll also learn about different types of drums and how to set up your drum kit.",
+    "price": 69.99,
+    "instructor": {
+      "name": "Emily Davis",
+      "title": "Drum Instructor",
+      "avatarUrl": "/images/instructors/emily-davis.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/drumming.jpg",
+    "duration": "10 weeks",
+    "level": "Beginner",
+    "category": "Music",
+    "studentsEnrolled": 180,
+    "learningPoints": [
+      "Basic drumming techniques",
+      "Rhythm exercises",
+      "Playing simple beats",
+      "Different types of drums",
+      "Setting up your drum kit",
+      "Basic music theory",
+      "Hand and foot coordination",
+      "Playing with a metronome",
+      "Drum fills",
+      "Improvisation"
+    ]
+  },
+  {
+    "title": "Music Production for Beginners",
+    "slug": "music-production-for-beginners",
+    "description": "Learn the basics of music production with our beginner's course. This course covers digital audio workstations (DAWs), recording techniques, and how to create your own music. You'll also learn about mixing and mastering, and how to produce different genres of music.",
+    "price": 119.99,
+    "instructor": {
+      "name": "David Brown",
+      "title": "Music Producer",
+      "avatarUrl": "/images/instructors/david-brown.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/music-production.jpg",
+    "duration": "12 weeks",
+    "level": "Beginner",
+    "category": "Music",
+    "studentsEnrolled": 250,
+    "learningPoints": [
+      "Using digital audio workstations (DAWs)",
+      "Recording techniques",
+      "Creating your own music",
+      "Mixing and mastering",
+      "Producing different genres",
+      "Basic music theory",
+      "Sound design",
+      "Using virtual instruments",
+      "Audio effects",
+      "Building a home studio"
+    ]
+  },
+  {
+    "title": "Advanced Guitar Techniques",
+    "slug": "advanced-guitar-techniques",
+    "description": "Take your guitar playing to the next level with our advanced guitar techniques course. This course covers advanced chords, scales, and soloing techniques. You'll also learn about different playing styles and how to develop your own unique sound.",
+    "price": 129.99,
+    "instructor": {
+      "name": "Chris Lee",
+      "title": "Guitar Instructor",
+      "avatarUrl": "/images/instructors/chris-lee.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/advanced-guitar.jpg",
+    "duration": "14 weeks",
+    "level": "Advanced",
+    "category": "Music",
+    "studentsEnrolled": 220,
+    "learningPoints": [
+      "Advanced chords and scales",
+      "Soloing techniques",
+      "Different playing styles",
+      "Developing your own sound",
+      "Music theory for advanced players",
+      "Fingerstyle techniques",
+      "Improvisation",
+      "Playing with a band",
+      "Recording guitar",
+      "Advanced finger exercises"
+    ]
+  },
+  {
+    "title": "Jazz Piano",
+    "slug": "jazz-piano",
+    "description": "Learn the art of jazz piano with our comprehensive course. This course covers jazz chords, scales, and improvisation techniques. You'll also learn about the history of jazz and how to play in different jazz styles.",
+    "price": 139.99,
+    "instructor": {
+      "name": "Laura Martinez",
+      "title": "Jazz Piano Instructor",
+      "avatarUrl": "/images/instructors/laura-martinez.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/jazz-piano.jpg",
+    "duration": "16 weeks",
+    "level": "Intermediate",
+    "category": "Music",
+    "studentsEnrolled": 180,
+    "learningPoints": [
+      "Jazz chords and scales",
+      "Improvisation techniques",
+      "Playing in different jazz styles",
+      "History of jazz",
+      "Jazz theory",
+      "Ear training",
+      "Playing with a jazz band",
+      "Jazz standards",
+      "Advanced piano techniques",
+      "Building a jazz repertoire"
+    ]
+  },
+  {
+    "title": "Electronic Music Production",
+    "slug": "electronic-music-production",
+    "description": "Learn how to produce electronic music with our in-depth course. This course covers synthesizers, drum machines, and digital audio workstations (DAWs). You'll also learn about sound design, mixing, and mastering for electronic music.",
+    "price": 149.99,
+    "instructor": {
+      "name": "Mark Thompson",
+      "title": "Electronic Music Producer",
+      "avatarUrl": "/images/instructors/mark-thompson.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/electronic-music.jpg",
+    "duration": "18 weeks",
+    "level": "Intermediate",
+    "category": "Music",
+    "studentsEnrolled": 200,
+    "learningPoints": [
+      "Using synthesizers and drum machines",
+      "Digital audio workstations (DAWs)",
+      "Sound design for electronic music",
+      "Mixing and mastering",
+      "Producing different electronic genres",
+      "Creating beats and basslines",
+      "Using audio effects",
+      "Building a home studio",
+      "Live performance techniques",
+      "Music theory for electronic music"
+    ]
+  },
+  {
+    "title": "Classical Guitar",
+    "slug": "classical-guitar",
+    "description": "Master the classical guitar with our detailed course. This course covers classical guitar techniques, reading sheet music, and playing classical pieces. You'll also learn about the history of classical guitar and famous classical guitarists.",
+    "price": 119.99,
+    "instructor": {
+      "name": "Anna White",
+      "title": "Classical Guitar Instructor",
+      "avatarUrl": "/images/instructors/anna-white.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/classical-guitar.jpg",
+    "duration": "12 weeks",
+    "level": "Intermediate",
+    "category": "Music",
+    "studentsEnrolled": 160,
+    "learningPoints": [
+      "Classical guitar techniques",
+      "Reading sheet music",
+      "Playing classical pieces",
+      "History of classical guitar",
+      "Famous classical guitarists",
+      "Music theory for classical guitar",
+      "Fingerstyle techniques",
+      "Advanced finger exercises",
+      "Playing with dynamics",
+      "Building a classical repertoire"
+    ]
+  },
+  {
+    "title": "Music Theory Essentials",
+    "slug": "music-theory-essentials",
+    "description": "Understand the fundamentals of music theory with our essential course. This course covers scales, chords, and harmony. You'll also learn about rhythm, melody, and how to analyze music.",
+    "price": 99.99,
+    "instructor": {
+      "name": "David Green",
+      "title": "Music Theory Instructor",
+      "avatarUrl": "/images/instructors/david-green.jpg"
+    },
+    "isFeatured": true,
+    "image": "/courses/music-theory.jpg",
+    "duration": "10 weeks",
+    "level": "Beginner",
+    "category": "Music",
+    "studentsEnrolled": 140,
+    "learningPoints": [
+      "Scales and chords",
+      "Harmony and melody",
+      "Rhythm and meter",
+      "Music notation",
+      "Analyzing music",
+      "Ear training",
+      "Music composition",
+      "Songwriting basics",
+      "Music theory for different genres",
+      "Building a music theory foundation"
+    ]
+  }
+]
