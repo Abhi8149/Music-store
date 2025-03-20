@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Online Music Course Platform
 
-## Getting Started
+This is a full-stack platform for selling online music courses, built using **Next.js** and **Node.js**, with **MongoDB** as the database. The platform allows users to browse and purchase music courses. It includes authentication, a user-friendly interface built with **Acertinity UI**, and secure payment processing. The project is currently in development, and post-purchase features are yet to be implemented.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### User Panel
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- User authentication and account management.
+- Browse and search for music courses.
+- Purchase courses securely.
+- Payment processing (integration in progress).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Admin Panel (Planned Features)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Admin authentication and dashboard.
+- Upload, manage, and categorize courses.
+- Track sales and user activity.
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Frontend:** Next.js, TypeScript, Acertinity UI
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** NextAuth.js
+- **Payments:** (To be integrated)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Prerequisites
 
-## Deploy on Vercel
+Ensure you have the following installed:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Node.js** (v16+ recommended)
+- **MongoDB** (Local or Atlas)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Steps to Run Locally
+
+1. Clone the repository:
+
+2. Install dependencies:
+
+3. Set up environment variables by creating a `.env` file:
+
+4. Start the development server:
+
+   The app will be available at [http://localhost:3000](http://localhost:3000)
+
+## Development Roadmap
+
+- Implement course content delivery after purchase.
+- Design and develop the admin panel.
+- Integrate payment gateway fully.
+
+## Deployment
+
+To deploy the application, you can use platforms like **Vercel** (for frontend) and **Railway/Render** (for backend) with proper environment variables configured.
+
+## Contributing
+
+Feel free to contribute by opening an issue or submitting a pull request.
+
+
